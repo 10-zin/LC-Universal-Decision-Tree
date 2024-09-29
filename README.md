@@ -7,14 +7,14 @@ A distilled decision tree framework to solve any LeetCode question systematicall
 
 Formulate a Decision Tree Mental Model of questions.
 
-This is an ever-evolving decision tree.
+This is an ever-evolving decision tree to solve any LC question systematically.
 
 ## Hypothesis/Motivation
 We all have this decision tree innate in our mind somewhere.
 
-For those who occasionally fail LC questions. Their decision tree is flaky.
+For those who frequently fail LC questions. Their decision tree is flaky.
 
-For those who occasionally pass LC question they’ve seen before. Their in-distribution decision tree is strong.
+For those who frequently pass LC question they’ve seen before. Their in-distribution decision tree is strong.
 
 For those who can often solve problems with ambiguous patterns. Their decision tree has strong contrastive branches. Contrastive branches → They have nodes that branch on problems that sound similar but have to be solved with different techniques, otherwise are unsolvable. Like sliding window, but the numbers are negative → so sliding wont work. Or sliding window but requires subsequences → requires dynamic programming.
 
