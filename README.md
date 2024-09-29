@@ -1,4 +1,6 @@
 # LC-Universal-Decision-Tree
+[thought experiment]
+
 A distilled decision tree framework to solve any LeetCode question systematically.
 
 # Preliminary Thoughts
