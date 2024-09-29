@@ -21,7 +21,17 @@ For those who can often solve problems with ambiguous patterns. Their decision t
 For those who can do competitive programming level questions at east. Their decision tree is so wide, deep, and factually verified through practice. That traversing this tree in their mind is like second nature, it's muscle memory to them.
 
 ## Problem/Solution
-It is very difficult to acquire/form this decision tree in your mind. But what if we can transfer our learning/s of this deicsion tree, each new decision node/branch/leaf node we learn, if we can transfer it across our minds through a centralized distilled verifiied and crowsdourced universal decision tree.
+It is very difficult to acquire/form this decision tree in your mind.
+At a very raw level, the robustness of this decision tree is directly propotional to the LC question/s you solve.
+And contemporary approach is for everyone to start from 0.
+
+Every newcommer is training their mind from scratch.
+
+From an AI POV, everyone is pre-training their mind from scratch, even if they dont have the time budget. This is expensive.
+
+Rather, we should fine-tune, and start from an existing pre-trained mind. In this case the pre-trained mind is represented as a decision tree, that we can quickly grasp through a logical understanding and lesser number of LC question/s.
+
+If we can transfer our learning/s of this deicsion tree, each new decision node/branch/leaf node we learn, if we can transfer it across our minds through a centralized distilled verifiied and crowsdourced universal decision tree.
 This could speed track any newcommer. Encourage newcommers to think from a patterns perspective/ first principles. 
 
 
