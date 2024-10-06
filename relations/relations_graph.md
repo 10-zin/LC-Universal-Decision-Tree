@@ -52,7 +52,9 @@ Similarly, there are $\sum_{k=0}^{N_{DS}} C_{k}^{N_{DS}}*k!$ data structure cand
 
 Now, to fully solve a problem we need arbitrary permutaions of patterns, data structure, and algorithms altogether. Thus, total possible candidate permutations/solutions are:
 
-$ \left( \sum_{k_{P}=0}^{N_{P}} C_{k_{P}}^{N_{P}}*k_{P}! \right) * \left( \sum_{k_{DS}=0}^{N_{DS}} C_{k_{DS}}^{N_{DS}}*k_{DS}! \right) * \left( \sum_{k_{A}=0}^{N_{A}} C_{k_{A}}^{N_{A}}*k_{A}! \right)$
+<!-- $ \left( \sum_{k_{P}=0}^{N_{P}} C_{k_{P}}^{N_{P}}*k_{P}! \right) * \left( \sum_{k_{DS}=0}^{N_{DS}} C_{k_{DS}}^{N_{DS}}*k_{DS}! \right) * \left( \sum_{k_{A}=0}^{N_{A}} C_{k_{A}}^{N_{A}}*k_{A}! \right)$ -->
+
+![eq](https://latex.codecogs.com/svg.image?\left(\sum_{k_{P}=0}^{N_{P}}C_{k_{P}}^{N_{P}}*k_{P}!\right)*\left(\sum_{k_{DS}=0}^{N_{DS}}C_{k_{DS}}^{N_{DS}}*k_{DS}!\right)*\left(\sum_{k_{A}=0}^{N_{A}}C_{k_{A}}^{N_{A}}*k_{A}!\right))
 
 
 So, even if we consider, 10 patterns, 10 Data Structures, and 20 algorithms. This would amount to 6.$6*10^{18}$ possible candidate solutions!!! That's a lot, how do we have elite LeetCoders then?
